@@ -46,8 +46,11 @@ Developed by: RegisterNumber:
 **RESULTS**
 logic diagram 
 
-![exp 4 1](https://github.com/user-attachments/assets/4b3e85b8-d57e-4db7-b1a9-9f176562fd84)
+![exp5 1](https://github.com/user-attachments/assets/e1e2c14e-7365-4592-a4f6-c134413c53ac)
 
-output 
+clock pulse
 
-![exp 4 2](https://github.com/user-attachments/assets/2d4455ca-48e7-43b5-a97d-655e4e7e4c89)
+![exp5 2](https://github.com/user-attachments/assets/e2556f9d-03a3-4209-bccf-42e5428fad87)
+
+
+
