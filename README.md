@@ -44,3 +44,10 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+logic diagram 
+
+![exp 4 1](https://github.com/user-attachments/assets/4b3e85b8-d57e-4db7-b1a9-9f176562fd84)
+
+output 
+
+![exp 4 2](https://github.com/user-attachments/assets/2d4455ca-48e7-43b5-a97d-655e4e7e4c89)
